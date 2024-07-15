@@ -1,0 +1,1 @@
+Leader of the Druids, who distrusts technology but recognizes the threat the [[Cognitron]] poses to nature.

@@ -1,0 +1,1 @@
+Leader of the Mage Guild, who is initially skeptical of the players but becomes a key ally.
