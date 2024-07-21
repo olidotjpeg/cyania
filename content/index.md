@@ -1,3 +1,5 @@
+### Introduction Journal
+
 
 During year "0" there was a war called the great Contruct War. During this war society was at war against the sentient Constructs controlled by their overlord / mastermind "Cognitron". Cognitron is a magical Construct that had "humanity" more than being a construct. Cognitron wanted constructs to be equal with society but the grand mages of Arcadian (The main city of the world) was very much against this.
 
