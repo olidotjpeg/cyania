@@ -9,12 +9,12 @@ The players, a group of adventurers known for their skills and bravery, are summ
     - **Description:** The players arrive at the Arcadian Council Hall and are briefed on the situation. Machines and magical artifacts have been malfunctioning, and there are rumors of an unseen force behind these events.
     - **Key Locations:**
         - **The Arcadian Market:** Witness firsthand the disturbances, such as animated constructs causing chaos and enchanted items behaving erratically.
-        - **The Workshop of [[Professor Elara Windspire]]:** A key location where they can find clues about the [[Cognitron]].
+        - **The Workshop of [[Arcadia/Characters/Professor Elara Windspire]]:** A key location where they can find clues about the [[Cognitron]].
     - **Encounters:** Minor skirmishes with malfunctioning constructs and enchanted items.
 2. **Clues and Discoveries:**
     - **Objective:** Gather information about the [[Cognitron]] and its influence.
-    - **Description:** At [[Professor Elara Windspire]]'s workshop, the players find her frantically trying to contain a rogue construct. After helping her, she reveals her discovery of the [[Cognitron]] and its growing sentience.
-    - **Clue:** [[Professor Elara Windspire]] provides a map leading to an old laboratory on the outskirts of Arcadia, where the [[Cognitron]] was first discovered.
+    - **Description:** At [[Arcadia/Characters/Professor Elara Windspire]]'s workshop, the players find her frantically trying to contain a rogue construct. After helping her, she reveals her discovery of the [[Cognitron]] and its growing sentience.
+    - **Clue:** [[Arcadia/Characters/Professor Elara Windspire]] provides a map leading to an old laboratory on the outskirts of Arcadia, where the [[Cognitron]] was first discovered.
 3. **The Laboratory:**
     - **Objective:** Investigate the laboratory and uncover the [[Cognitron]]’s plans.
     - **Description:** The players travel to the old laboratory, now a dilapidated structure filled with broken machinery and magical wards.
@@ -35,8 +35,8 @@ The players, a group of adventurers known for their skills and bravery, are summ
 
 #### **Key NPCs:**
 
-- **[[Professor Elara Windspire]]:** The eccentric artificer who discovered the [[Cognitron]]. Provides crucial information and assists the players with gadgets and potions.
-- **[[Captain Roderick Ironfist]]:** Head of the Arcadian Guard, who provides support and resources for the players’ mission.
+- **[[Arcadia/Characters/Professor Elara Windspire]]:** The eccentric artificer who discovered the [[Cognitron]]. Provides crucial information and assists the players with gadgets and potions.
+- **[[Arcadia/Characters/Captain Roderick Ironfist]]:** Head of the Arcadian Guard, who provides support and resources for the players’ mission.
 
 #### **Key Locations:**
 
